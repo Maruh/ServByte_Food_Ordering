@@ -1,4 +1,7 @@
-# AngularMaterial
+# Running The Spring Boot Application
+1. Open the main application file, and run it as Java Application.
+2. When the application runs successfully, it shows some messages in the console.
+3. Now, open the browser and invoke the URL http://localhost:8080. It shows the message that we have returned to the controller.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.1.
 
